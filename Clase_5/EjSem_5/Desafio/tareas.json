@@ -1,0 +1,16 @@
+[
+    {
+    "notas": [
+        {
+            "titulo": "titulo 1",
+            "estado": "terminada"
+        },
+        {
+            "titulo": "titulo 2",
+            "estado": "en progreso" 
+
+        }
+    ]
+}
+]
+
